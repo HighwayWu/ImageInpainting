@@ -48,7 +48,7 @@ python main.py test
 ```
 
 Then the model will inpaint the images in the `./demo/input/` with corresponding masks in the `./demo/mask/` and save the results in the `./demo/output/` directory.
-The pre-trained weights can be downloaded from [here](https://www.google.com) and should be put in the `./weights/` directory.
+The pre-trained weights can be downloaded from [here](https://drive.google.com/drive/folders/1YfHntaX20Y9VenRCr-0N74DNvde9G0HY?usp=sharing) and should be put in the `./weights/` directory.
 
 ## Acknowledgments
 Our code is based on the [Shift-Net](https://github.com/Zhaoyi-Yan/Shift-Net_pytorch).
