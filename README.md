@@ -54,7 +54,11 @@ python main.py test
 ```
 
 Then the model will inpaint the images in the `./demo/input/` with corresponding masks in the `./demo/mask/` and save the results in the `./demo/output/` directory.
-The pre-trained weights can be downloaded from [here](https://drive.google.com/drive/folders/1YfHntaX20Y9VenRCr-0N74DNvde9G0HY?usp=sharing) and should be put in the `./weights/` directory.
+The pre-trained weights should be put in the `./weights/` directory.
+
+**Note: The pretrained weights can be downloaded from:
+[Google Drive](https://drive.google.com/file/d/1sMgse0Rp2qW824nPGHy1eKNR7oMNiihJ/view?usp=sharing) or 
+[Baidu Yun (Code: a6n2)](https://pan.baidu.com/s/1owidTuvS-8iJK50uDySVnQ)**
 
 ## Citation
 If you use this code for your research, please cite our paper
