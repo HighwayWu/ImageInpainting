@@ -39,7 +39,6 @@ In this paper, we have proposed a deep generative model for image inpainting wit
 
 ## Dependency
 - torch 1.6.0
-- tensorflow 1.8.0
 
 ## Demo
 
